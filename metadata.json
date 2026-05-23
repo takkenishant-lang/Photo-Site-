@@ -1,0 +1,6 @@
+{
+  "name": "Photo Site",
+  "description": "An editorial-grade minimalist photography portfolio and curation workspace featuring interactive EXIF data displays, custom curation, layouts, gear/location tagging, and a dedicated black lightbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
